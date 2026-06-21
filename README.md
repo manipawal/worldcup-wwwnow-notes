@@ -1,2 +1,14 @@
 # worldcup-wwwnow-notes
-HTML page archive and documentation
+
+静态页面归档仓库
+
+这里集中保存独立页面文件，便于按仓库查看发布记录。
+
+## 文件归档
+
+- HTML 页面用于访问展示
+- README 用于说明归档用途
+
+## 文件维护
+
+请以仓库当前文件和提交记录判断最新状态。
